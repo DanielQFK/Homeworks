@@ -43,4 +43,3 @@ elif mines >= 55 :
     print("Based on your age your parent is so old...")
     
 print("\n" , "Thanks for your patience...  ≧^◡^≦ "  ) 
-m
