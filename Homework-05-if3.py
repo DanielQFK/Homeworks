@@ -44,5 +44,3 @@ print( "\n" , "\n" , "Based on what you've entered :" , "\n" , "You are" , infor
 , "\n" , "And also you are " , information[2] , "years old ;" , "\n" , "And ofcourse , You are from" , information[3].title() 
 , "\n" , "And the name of continent you live in is" , information[4].title() , "\n" , "\n" , "Thanks for your patience" 
 , "\n" , "Don't forget to smile..." , "≧^◡^≦")
-
-
