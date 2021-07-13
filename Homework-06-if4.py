@@ -27,5 +27,3 @@ elif  14 <= average < 18 :
     print("Good , not bad , work harder...(◕‿◕✿")
 else:
     print("It's not good , you need to work harder...")
-    
-a    
