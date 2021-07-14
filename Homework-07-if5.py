@@ -132,5 +132,3 @@ print( "\n" , "And finally , here are the remain of the workers and their salari
 "\n" , workers , "\n" , salaries) 
 
 print( "\n" , "Thanks for your patience... ")
-
-j
