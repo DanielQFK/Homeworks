@@ -132,3 +132,4 @@ print( "\n" , "And finally , here are the remain of the workers and their salari
 "\n" , workers , "\n" , salaries) 
 
 print( "\n" , "Thanks for your patience... ")
+# Tip = If we do that by loop , it will be easier to write...
