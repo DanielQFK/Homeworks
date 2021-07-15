@@ -51,4 +51,3 @@ if age11 > average :
     
 # Then print the ages that are lower than average (Because those have been removed in condition)...    
 print( "\n" , "The ages less than the average : " , ages)    
-g
