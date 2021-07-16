@@ -89,4 +89,3 @@ else:
     print("ERROR !")
     
 print(ages)  
-k
