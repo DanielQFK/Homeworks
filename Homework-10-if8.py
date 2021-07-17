@@ -16,4 +16,3 @@ elif Math >= 14 and Average >= 18:
     print("You are accepted...")
 else:
     print("You are failed...")   
-    b
