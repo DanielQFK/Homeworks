@@ -28,4 +28,4 @@ while Input>0:
     Input = Input//10 
 
 Second_helper_valuable = Second_helper_valuable//10 # Now if we get the output a 0 has added to our number and to remove that we devide it in 10
-print("Here is your number reversed : " , Second_helper_valuable)    # And finally we print that...
+print("Here is your number reversed : " , Second_helper_valuable)    # And finally we print that... .
