@@ -29,3 +29,15 @@ while Input>0:
 
 Second_helper_valuable = Second_helper_valuable//10 # Now if we get the output a 0 has added to our number and to remove that we devide it in 10
 print("Here is your number reversed : " , Second_helper_valuable)    # And finally we print that... .
+
+# the second solution
+
+# There is another way to reverse number but not mathematically but as a string
+# It is so so so easier than the first way
+# You know hat strings are some kind of a list , so you can reverse that like lists...
+
+# so at first make an input to get a number...
+Input = input("Enter your number please > ")
+
+# Then print it with two :  and -1 because it calculates from the last number till the beggining...
+print(Input[::-1])
