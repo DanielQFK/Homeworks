@@ -418,7 +418,3 @@ Buyer1.Seat_Cover_Leather()
 Buyer1.Dark_Window()
 print(Buyer1.__dict__)
 print(f"Number of Buyers from Chevrolet copany is {Chevrolet.Number_of_Buyers}")
-
-      
-
-
